@@ -1,0 +1,5 @@
+fitz==0.0.1.dev2
+Flask==3.0.3
+Pillow==10.4.0
+PyPDF2==3.0.1
+rembg==2.0.59
